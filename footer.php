@@ -15,7 +15,7 @@
           <!-- Grid column -->
           <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
             <h6 class="text-uppercase mb-4 font-weight-bold">
-              Gamer's store
+              Pizza Time
             </h6>
             <p>
             we're more than just a pizza restaurant – we're a culinary journey, crafting each pizza with passion, creativity, and the finest ingredients. Step into our world of mouthwatering flavors and let your taste buds embark on an unforgettable adventure.
