@@ -2,7 +2,7 @@
 $dbHost='localhost';
 $dbUser='root';
 $dbPass='';
-$dbName='gamerstore';
+$dbName='pizza_db';
 $options = array(
     PDO::ATTR_PERSISTENT => true,
     PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION,
