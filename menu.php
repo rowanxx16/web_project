@@ -56,7 +56,7 @@ session_start();
     </nav>
     <center>
         <br>
-    <h1>Products</h1>
+    <h1>Menu</h1>
     </center>
 
     <?php
