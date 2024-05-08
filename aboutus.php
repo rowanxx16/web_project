@@ -54,7 +54,7 @@ session_start();
 				</div>
 				<div class="team-member">
 					<img src="images/team.jpeg" alt="Fatima Alfilfil">
-					<h3>Fatima</h3>
+					<h3>Fatimah</h3>
 					
 				</div>
 				<div class="team-member">
@@ -64,7 +64,7 @@ session_start();
 				</div>
                 <div class="team-member">
                 <img src="images/team.jpeg" alt="Fatima">
-					<h3>Fatima</h3>
+					<h3>Fatimah</h3>
 					
 				
 			</div>
