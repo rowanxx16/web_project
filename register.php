@@ -78,7 +78,7 @@ if(isset($_POST['submit'])){
 </head>
 <body>
 <nav>
-    <img src="images/Black and Purple Gaming Avatar Logo.svg" alt="Website logo" width="200" height="100">
+    <img src="images/logo" alt="Website logo" width="200" height="100">
     <a href="index.php">Main</a> |
     <a href="login.php">Login</a> |
     <a href="register.php">Register</a> |
