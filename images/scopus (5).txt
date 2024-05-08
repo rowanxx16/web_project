@@ -1,0 +1,15 @@
+﻿Scopus
+EXPORT DATE: 07 May 2024
+
+Alam M.Z., Khan H., Ahmad A., Ahamd S., Khan M.R., Siddiqui S.T.
+AUTHOR FULL NAMES: Alam, Malik Zaib (57283881200); Khan, Haneef (57214365628); Ahmad, Adeel (58781476300); Ahamd, Sarfaraz (58795675400); Khan, Mohammad Rafeek (57759536200); Siddiqui, Shams Tabrez (57204831168)
+57283881200; 57214365628; 58781476300; 58795675400; 57759536200; 57204831168
+Traffic Flow Analysis in Digital Forensics: Unveiling Patterns and Anomalies
+(2023) 7th IEEE International Conference on Computational Systems and Information Technology for Sustainable Solutions, CSITSS 2023 - Proceedings, Cited 0 times.
+DOI: 10.1109/CSITSS60515.2023.10334151
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85181537163&doi=10.1109%2fCSITSS60515.2023.10334151&partnerID=40&md5=be2ebb0895d4fdf7d298a67d0b454f86
+
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
