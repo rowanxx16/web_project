@@ -43,28 +43,28 @@ session_start();
 				<h2>Our Team</h2>
                 
 				<div class="team-member">
-                <img src="images/3.png" alt="Rowan">
+                <img src="images/team.jpeg" alt="Rowan">
 					<h3>Rowan</h3>
 					
 				</div>
 				<div class="team-member">
-					<img src="images/3.png" alt="sara">
+					<img src="images/team.jpeg" alt="sara">
 					<h3>Sara</h3>
 					
 				</div>
 				<div class="team-member">
-					<img src="images/3.png" alt="Fatima Alfilfil">
-					<h3>Fatima</h3>
+					<img src="images/team.jpeg" alt="Fatima Alfilfil">
+					<h3>Fatimah</h3>
 					
 				</div>
 				<div class="team-member">
-					<img src="images/3.png" alt="Jana">
+					<img src="images/team.jpeg" alt="Jana">
 					<h3>Jana</h3>
 					
 				</div>
                 <div class="team-member">
-                <img src="images/3.png" alt="Fatima">
-					<h3>Fatima</h3>
+                <img src="images/team.jpeg" alt="Fatima">
+					<h3>Fatimah</h3>
 					
 				
 			</div>
