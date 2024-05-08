@@ -28,7 +28,7 @@ session_start();
 		<section id="story">
 			<div class="container">
 				<h2>Overview</h2>
-				<p>Welcome to Pizza Restaurant  tWhere Every Slice Tells a Story</p>
+				<p>Welcome to Pizza Restaurant  Where Every Slice Tells a Story</p>
 				<p>We believe that great pizza starts with great ingredients. That's why we source the freshest produce, premium meats, and artisanal cheeses to ensure every bite bursts with flavor. Our dough is handcrafted daily, and our sauces are made from scratch using secret family recipes passed down through generations</p>
 			</section>
 		<section id="mission">
