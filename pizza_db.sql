@@ -96,7 +96,7 @@ INSERT INTO `product` (`id`, `product_name`, `product_price`, `product_descripti
 (15, 'Salad', '20 SAR', '', 'Y', 'images\\salad.jpeg', 'salad'),
 (17, 'Fries', '30 SAR', '', 'N', 'images\\fries.jpg', 'fries'),
 (18, 'Buffalo Wings', '30 SAR', '', 'N', 'images\\buffalo wings.jpeg', 'buffalo wings'),
-(20, 'PlayStation VR2', '2899 SAR', '', 'Y', 'images\\PlayStation VR2.jfif', 'vr, virtual, playstation, sony'),
+(20, 'Hawaiin Pizza', '90', '', 'Y', 'images\\Hawaiin Pizza.jpeg', 'Hawaii, Hawaiin Pizza'),
 (21, 'Ratchet & Clank', '199 SAR', '', 'N', 'images\\Ratchet & Clank  Rift Apart.jfif', 'playstation, games, Ratchet & Clank  Rift Apart'),
 (22, 'Xbox Charge Station', '160 SAR', '', 'N', 'images\\Xbox Charge Station.jpg', 'charger, xbox, battery , controller '),
 (23, 'Xbox Storage Expansion SS', '500 SAR', '', 'N', 'images\\Xbox Storage Expansion SSD 1TB.jpg', 'expansion, space, Xbox Storage Expansion SSD 1TB'),
