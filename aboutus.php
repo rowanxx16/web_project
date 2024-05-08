@@ -28,14 +28,14 @@ session_start();
 		<section id="story">
 			<div class="container">
 				<h2>Overview</h2>
-				<p>Welcome to Game Store  the ultimate destination for gamers of all ages and skill levels. Our online store offers a vast selection of the latest games, consoles, and accessories, as well as exclusive deals and promotions that you won't find anywhere else.</p>
-				<p>At Game Store we are passionate about gaming and committed to providing our customers with the best possible experience. Whether you're a casual player or a hardcore enthusiast, we have everything you need to take your gaming to the next level.</p>
+				<p>Welcome to Pizza Restaurant  tWhere Every Slice Tells a Story</p>
+				<p>We believe that great pizza starts with great ingredients. That's why we source the freshest produce, premium meats, and artisanal cheeses to ensure every bite bursts with flavor. Our dough is handcrafted daily, and our sauces are made from scratch using secret family recipes passed down through generations</p>
 			</section>
 		<section id="mission">
 			<div class="container">
 				<h2> Mission</h2>
-				<p>At Game Store our mission is to provide gamers of all ages and skill levels with a fun, safe, and inclusive gaming environment. We are dedicated to offering the latest games, consoles, and accessories at competitive prices, as well as providing expert advice and support to help our customers get the most out of their gaming experience.</p>
-				<p>We believe that gaming is more than just a hobby it's a passion that brings people together and fosters community. We are committed to creating a welcoming and inclusive environment where all gamers feel valued and respected, regardless of their background or identity.</p>
+				<p>We believe that great pizza starts with great ingredients. That's why we source the freshest produce, premium meats, and artisanal cheeses to ensure every bite bursts with flavor. Our dough is handcrafted daily, and our sauces are made from scratch using secret family recipes passed down through generations.</p>
+				
 			</div>
 		</section>
 		<section id="team">
@@ -43,35 +43,30 @@ session_start();
 				<h2>Our Team</h2>
                 
 				<div class="team-member">
-                <img src="images/3.png" alt="naeeem">
-					<h3>Na3em</h3>
+                <img src="images/3.png" alt="Rowan">
+					<h3>Rowan</h3>
 					
 				</div>
 				<div class="team-member">
-					<img src="images/3.png" alt="khalifah">
-					<h3>khalifah</h3>
+					<img src="images/3.png" alt="sara">
+					<h3>Sara</h3>
 					
 				</div>
 				<div class="team-member">
-					<img src="images/3.png" alt="Ahmed Al Arfaj">
-					<h3>Ahmed </h3>
+					<img src="images/3.png" alt="Fatima Alfilfil">
+					<h3>Fatima</h3>
 					
 				</div>
 				<div class="team-member">
-					<img src="images/3.png" alt="abdulaziz">
-					<h3>abdulaziz</h3>
+					<img src="images/3.png" alt="Jana">
+					<h3>Jana</h3>
 					
 				</div>
                 <div class="team-member">
-                <img src="images/3.png" alt="huss">
-					<h3>hussin</h3>
+                <img src="images/3.png" alt="Fatima">
+					<h3>Fatima</h3>
 					
-				</div>
-                <div class="team-member">
-                <img src="images/3.png" alt="kh">
-					<h3>khalid</h3>
-					
-				</div>
+				
 			</div>
 		</section>
 	</main>
