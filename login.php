@@ -63,7 +63,7 @@ $_SESSION['user']=[
             <a href="index.php">Main</a> | 
             <a href="login.php">Login</a> | 
             <a href="register.php">Register</a> | 
-            <a href="products.php">Products</a> |
+            <a href="menu.php">Menu</a> |
             <a href="newcontactus.php">Contact Us</a> |
             <a href="aboutus.php">About Us</a> 
         </nav>
