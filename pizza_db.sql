@@ -89,7 +89,7 @@ INSERT INTO `product` (`id`, `product_name`, `product_price`, `product_descripti
 (10, 'New York Style Pizza', '90 SAR', 'Savor the iconic taste of New York City with our authentic New York-style pizza. Crafted with passion and precision, our pizza pays homage to the culinary legacy of the Big Apple, offering a delicious slice of Manhattan right here .', 'N', 'images\\new-york-style.jpeg', 'New York, new york style , New york Style Pizza '),
 (11, 'Pepsi', '10 SAR', '', 'N', 'images\\pepsi.jpeg', 'Pepsi, Pepsi drink'),
 (12, 'Fanta', '10 SAR', '', 'Y', 'images\\fanta.jpeg', 'Fanta drink, fanta'),
-(13, 'Sprite', '10 SAR', '', 'Y', 'images\\sprite.jpg', 'Sprite, Sprite drink'),
+(13, 'Sprite', '10 SAR', '', 'Y', 'images\\sprite.jpeg', 'Sprite, Sprite drink'),
 (14, 'Water', '4 SAR', '', 'Y', 'images\\water.jpeg', 'water'),
 (15, 'Salad', '20 SAR', '', 'Y', 'images\\salad.jpeg', 'salad'),
 (17, 'Fries', '30 SAR', '', 'N', 'images\\fries.jpeg', 'fries'),
