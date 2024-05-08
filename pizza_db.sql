@@ -98,9 +98,9 @@ INSERT INTO `product` (`id`, `product_name`, `product_price`, `product_descripti
 (18, 'Buffalo Wings', '30 SAR', '', 'N', 'images\\buffalo wings.jpeg', 'buffalo wings'),
 (20, 'Hawaiin Pizza', '90', '', 'Y', 'images\\Hawaiin Pizza.jpeg', 'Hawaii, Hawaiin Pizza'),
 (21, 'Classic veggie Pizza', '85 SAR', '', 'N', 'images\\Classic veggie pizza', 'Veggie, Classic, Classic veggie Pizza'),
-(22, 'Xbox Charge Station', '160 SAR', '', 'N', 'images\\Xbox Charge Station.jpg', 'charger, xbox, battery , controller '),
-(23, 'Xbox Storage Expansion SS', '500 SAR', '', 'N', 'images\\Xbox Storage Expansion SSD 1TB.jpg', 'expansion, space, Xbox Storage Expansion SSD 1TB'),
-(24, 'Xbox Wireless Headset', '400 SAR', '', 'Y', 'images\\Xbox Wireless Headset.jpg', 'Xbox Wireless Headset, sound, 3D ');
+(22, 'California Pizza', '90 SAR', '', 'N', 'images\\California Pizza.jpeg', 'California, california Pizza'),
+(23, 'ceaser Salad', '30 SAR', '', 'N', 'images\\Ceaser Salad.jpeg', 'Caeser, Ceaser pizza'),
+(24, 'BBQ chicken wings', '40 SAR', '', 'Y', 'images\\BBQ chicken wings.jpeg', 'BBQ, wings ');
 
 -- --------------------------------------------------------
 
