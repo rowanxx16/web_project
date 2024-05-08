@@ -18,7 +18,7 @@
               Gamer's store
             </h6>
             <p>
-              Gamer's store is a website that sells all what the gamer could needs, Platform devices, Accesories, Games and etc.
+            we're more than just a pizza restaurant – we're a culinary journey, crafting each pizza with passion, creativity, and the finest ingredients. Step into our world of mouthwatering flavors and let your taste buds embark on an unforgettable adventure.
             </p>
           </div>
           <!-- Grid column -->
@@ -52,7 +52,7 @@
           <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
             <h6 class="text-uppercase mb-4 font-weight-bold">Contact</h6>
             <p><i class="fas fa-home mr-3"></i> Khobar, Saudi Arabia</p>
-            <p><i class="fas fa-envelope mr-3"></i> Gamerstore@gmail.com</p>
+            <p><i class="fas fa-envelope mr-3"></i> Pizzarestaurant@gmail.com</p>
             <p><i class="fas fa-phone mr-3"></i> +966 510111111</p>
           </div>
           <!-- Grid column -->
