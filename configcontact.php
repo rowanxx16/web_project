@@ -28,7 +28,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     }
 
     $sql = "INSERT INTO contact2(name, email, phone, message) VALUES ('$name', '$email', '$phone', '$message')";
-    $result = mysqli_query($conn, $sql) or die("FAILED");
+    $result = mysqli_query($con, $sql) or die("FAILED");
 
     header("Location: index.php");
     exit();
