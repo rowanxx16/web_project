@@ -15,7 +15,7 @@
           <!-- Grid column -->
           <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
             <h6 class="text-uppercase mb-4 font-weight-bold">
-              Pizza Time
+              Gamer's store
             </h6>
             <p>
             we're more than just a pizza restaurant – we're a culinary journey, crafting each pizza with passion, creativity, and the finest ingredients. Step into our world of mouthwatering flavors and let your taste buds embark on an unforgettable adventure.
@@ -38,9 +38,6 @@
               <a class="text-white" href="aboutus.php">About us</a>
             </p>
             <p>
-              <a class="text-white">Shipping Rates</a>
-            </p>
-            <p>
               <a class="text-white" href="newcontactus.php">Help</a>
             </p>
           </div>
@@ -52,9 +49,8 @@
           <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
             <h6 class="text-uppercase mb-4 font-weight-bold">Contact</h6>
             <p><i class="fas fa-home mr-3"></i> Khobar, Saudi Arabia</p>
-            <p><i class="fas fa-envelope mr-3"></i> pizzaTime@gmail.com</p>
+            <p><i class="fas fa-envelope mr-3"></i> PizzaTime@gmail.com</p>
             <p><i class="fas fa-phone mr-3"></i> +966 554432782</p>
-
           </div>
           <!-- Grid column -->
         </div>
@@ -71,9 +67,9 @@
           <div class="col-md-7 col-lg-8 text-center text-md-start">
             <!-- Copyright -->
             <div class="p-3">
-              © 2023 Copyright:
+              © 2024 Copyright:
               <a class="text-white" href="https://mdbootstrap.com/"
-                 >Gamerstore.com</a
+                 >Pizzarestaurant.com</a
                 >
             </div>
             <!-- Copyright -->
