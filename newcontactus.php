@@ -17,7 +17,7 @@ session_start();
   a {color: white;}
 </style>
     <nav>
-    <img src="logo.JPEG" alt="Website logo" width="200" height="100">
+    <img src="images/logo.jpeg" alt="Website logo" width="200" height="100">
     <?php 
         if(isset($_SESSION['user'])){
             ?>
