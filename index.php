@@ -5,7 +5,7 @@ session_start();
 <html lang="en"> 
     <head> 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous"> <meta charset="UTF-8"> <meta http-equiv="X-UA-Compatible" content="IE=edge"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <title>Gamers Store</title> 
+        <title>Pizza Restaurant</title> 
         <link rel="stylesheet" href="stylesheets/index.css"> 
     </head> 
     <body> 
@@ -13,7 +13,7 @@ session_start();
   a {color: white;}
 </style>
         <nav> 
-        <img src="images/Black and Purple Gaming Avatar Logo.svg" alt="Website logo" width="200" height="100">
+        <img src="logo.jpeg" alt="Website logo" width="200" height="100">
         <?php 
         if(isset($_SESSION['user'])){
             ?>
@@ -22,7 +22,7 @@ session_start();
            <a class="color"> <?php echo "Welcome, ". $_SESSION['user']['name'];  ?></a>
             <a href="index.php">Main</a> | 
             <a href="logout.php">logout</a> | 
-            <a href="products.php">Products</a> |
+            <a href="menu.php">Menu</a> |
             <a href="newcontactus.php">Contact Us</a> |
             <a href="aboutus.php">About Us</a> 
             <a href='cart.php'>My Cart</a>
@@ -33,7 +33,7 @@ session_start();
             <a href="index.php">Main</a> | 
             <a href="login.php">Login</a> | 
             <a href="register.php">Register</a> | 
-            <a href="products.php">Products</a> |
+            <a href="menu.php">Menu</a> |
             <a href="newcontactus.php">Contact Us</a> |
             <a href="aboutus.php">About Us</a> 
             <a href='cart.php'>My Cart</a>
