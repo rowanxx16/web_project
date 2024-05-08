@@ -92,7 +92,7 @@ INSERT INTO `product` (`id`, `product_name`, `product_price`, `product_descripti
 (13, 'Sprite', '10 SAR', '', 'Y', 'images\\sprite.jpg', 'Sprite, Sprite drink'),
 (14, 'Water', '4 SAR', '', 'Y', 'images\\water.jpeg', 'water'),
 (15, 'Salad', '20 SAR', '', 'Y', 'images\\salad.jpeg', 'salad'),
-(17, 'Fries', '30 SAR', '', 'N', 'images\\fries.jpg', 'fries'),
+(17, 'Fries', '30 SAR', '', 'N', 'images\\fries.jpeg', 'fries'),
 (18, 'Buffalo Wings', '30 SAR', '', 'N', 'images\\buffalo wings.jpeg', 'buffalo wings'),
 (20, 'Hawaiin Pizza', '90 SAR', 'Escape to a taste of the tropics with our beloved Hawaiian pizza. Inspired by the sunny shores of Hawaii, this mouthwatering creation combines savory and sweet flavors for a culinary experience thats as refreshing as a beachside breeze', 'Y', 'images\\Hawaiin Pizza.jpeg', 'Hawaii, Hawaiin Pizza'),
 (21, 'Classic veggie Pizza', '85 SAR', 'Indulge in a garden-fresh feast with our Classic Veggie Pizza, a delicious celebration of vibrant flavors and wholesome ingredients. Crafted with care and bursting with color, this vegetarian masterpiece is sure to satisfy even the most discerning palates.', 'N', 'images\\Classic veggie pizza.jpeg', 'Veggie, Classic, Classic veggie Pizza'),
