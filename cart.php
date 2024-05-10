@@ -52,11 +52,11 @@ if(!isset($_SESSION['user'])){
             ?>
             
             
-            <img src="images/logo.JPEG" alt="Website logo" width="200" height="100">
+            <img src="images/logo.jpeg" alt="Website logo" width="200" height="100">
             <a class="color"> <?php echo "Welcome, ". $_SESSION['user']['name'];  ?></a>
             <a href="index.php">Main</a> | 
             <a href="logout.php">logout</a> | 
-            <a href="products.php">Products</a> |
+            <a href="menu.php">Menu</a> |
             <a href="newcontactus.php">Contact Us</a> |
             <a href="aboutus.php">About Us</a> 
             <a href='cart.php'>My Cart</a>
@@ -67,7 +67,7 @@ if(!isset($_SESSION['user'])){
             <a href="index.php">Main</a> | 
             <a href="login.php">Login</a> | 
             <a href="register.php">Register</a> | 
-            <a href="products.php">Products</a> |
+            <a href="menu.php">Menu</a> |
             <a href="newcontactus.php">Contact Us</a> |
             <a href="aboutus.php">About Us</a> 
             <a href='cart.php'>My Cart</a>
