@@ -116,7 +116,7 @@ if(!isset($_SESSION['user'])){
     </center>
 </body>
 <?php
-        include('footer.php');
+include('footer.php');
 ?>
 
 </html>
